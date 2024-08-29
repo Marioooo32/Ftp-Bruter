@@ -22,3 +22,10 @@
 
    ```bash
    pip install -r requirements.txt
+
+
+## Usage
+   ```bash
+   python ftp_bruteforcer.py <host> <username> <password_file> [--threads THREADS] [--logfile LOGFILE]
+
+
